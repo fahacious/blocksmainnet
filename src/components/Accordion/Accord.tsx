@@ -62,7 +62,7 @@ const Accord = () => {
             <div className="collapse collapse-arrow bg-[#ffffff0d] rounded-[10px]">
               <input type="radio" name="my-accordion-2" />
               <div className="collapse-title text-xl font-medium text-white ">
-                How can I earn high yields on DApp Mainnet?
+                How can I earn high yields on Blocks Mainnet?
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>

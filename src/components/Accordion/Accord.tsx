@@ -17,11 +17,11 @@ const Accord = () => {
             <div className="collapse collapse-arrow bg-[#ffffff0d] rounded-[10px]">
               <input type="radio" name="my-accordion-2" defaultChecked />
               <div className="collapse-title text-xl font-medium text-white">
-                What is DApp Mainnet?
+                What is Blocks Mainnet?
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                  DApp Mainnet is a platform designed to address common issues
+                  Blocks Mainnet is a platform designed to address common issues
                   faced by Web3 applications, such as scalability,
                   interoperability, and user adoption. We focus on creating a
                   secure and efficient environment for decentralized
@@ -32,7 +32,7 @@ const Accord = () => {
             <div className="collapse collapse-arrow bg-[#ffffff0d] rounded-[10px]">
               <input type="radio" name="my-accordion-2" />
               <div className="collapse-title text-xl font-medium text-white">
-                How does DApp Mainnet ensure the security of my funds?
+                How does Blocks Mainnet ensure the security of my funds?
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
@@ -51,7 +51,7 @@ const Accord = () => {
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                  DApp Mainnet is designed to be governed by the community.
+                  Blocks Mainnet is designed to be governed by the community.
                   Unlike centralized authorities, we believe in democracy and
                   user participation. Community members can propose and vote on
                   various aspects of the platform, ensuring that it evolves
@@ -80,7 +80,7 @@ const Accord = () => {
               </div>
               <div className="collapse-content text-customGray-main font-[400]">
                 <p>
-                  Yes, you can! If you gather enough support from the DApp
+                  Yes, you can! If you gather enough support from the Blocks Mainnet
                   Mainnet community, the protocol will automatically add the
                   desired crypto asset as an exchange option, allowing leveraged
                   exposure.
